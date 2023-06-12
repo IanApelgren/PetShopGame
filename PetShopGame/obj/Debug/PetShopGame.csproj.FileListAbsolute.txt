@@ -1,0 +1,8 @@
+C:\Users\Ian Apelgren\source\repos\PetShopGame\bin\Debug\PetShopGame.exe.config
+C:\Users\Ian Apelgren\source\repos\PetShopGame\bin\Debug\PetShopGame.exe
+C:\Users\Ian Apelgren\source\repos\PetShopGame\bin\Debug\PetShopGame.pdb
+C:\Users\Ian Apelgren\source\repos\PetShopGame\obj\Debug\PetShopGame.csproj.AssemblyReference.cache
+C:\Users\Ian Apelgren\source\repos\PetShopGame\obj\Debug\PetShopGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian Apelgren\source\repos\PetShopGame\obj\Debug\PetShopGame.csproj.CoreCompileInputs.cache
+C:\Users\Ian Apelgren\source\repos\PetShopGame\obj\Debug\PetShopGame.exe
+C:\Users\Ian Apelgren\source\repos\PetShopGame\obj\Debug\PetShopGame.pdb
